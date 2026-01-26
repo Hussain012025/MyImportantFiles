@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-01-08T11:28:20 GMT-08:00" name="Default suite" finished-at="2026-01-08T11:28:29 GMT-08:00" duration-ms="8972">
+    <groups>
+    </groups>
+    <test started-at="2026-01-08T11:28:20 GMT-08:00" name="Default test" finished-at="2026-01-08T11:28:29 GMT-08:00" duration-ms="8972">
+      <class name="TestMaven.Hardassert">
+        <test-method signature="Assert()[pri:0, instance:TestMaven.Hardassert@4c583ecf]" started-at="2026-01-08T11:28:20 GMT-08:00" name="Assert" finished-at="2026-01-08T11:28:29 GMT-08:00" duration-ms="8860" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Assert -->
+      </class> <!-- TestMaven.Hardassert -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

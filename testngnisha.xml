@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite">
+  <test thread-count="5" name="Flipkart">
+    <classes>
+      <class name="MyProject.Myflip"/>
+      
+      <class name="MyProject.Filters"/>
+    </classes>
+  </test>
+</suite>

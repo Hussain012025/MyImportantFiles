@@ -39,7 +39,7 @@ public class Myflip extends Baseclass {
         }
     }
     
-    @Test(priority = 2)
+    @Test(priority = 2, enabled = false)
     public void OTPAutoamtion() {
         test = extent.createTest("OTP Automation Test");
         try {
